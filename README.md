@@ -26,6 +26,8 @@ User will receive the answer in text through the GUI window
 - Atom Text Editor
 
 ## Screenshots
+![Wolfram Alpha]()
+![Wikipedia]()
 
 ## Video Demo
 [![Watch Pyda's Video Demo]()](https://drive.google.com/file/d/1S-Jpyv-3qU1LpJG5BMO17znNZr0QrWLz/view?usp=sharing)
