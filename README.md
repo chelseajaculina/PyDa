@@ -29,5 +29,5 @@ User will receive the answer in text through the GUI window
 - Wolfram Alpha[![Wolfram Alpha](https://github.com/chelseajaculina/PyDa/blob/master/PyDa-WolframAlpha.png)]
 - Wikipedia [![Wikipedia](https://github.com/chelseajaculina/PyDa/blob/master/Pyda-WikipediaSearch.png)]
 
-## Video Demo
-- ![Watch Pyda's Video Demo](https://github.com/chelseajaculina/PyDa/blob/master/Pyda%20Screenshot.png)](https://drive.google.com/file/d/1S-Jpyv-3qU1LpJG5BMO17znNZr0QrWLz/view?usp=sharing)
+## Demo Video
+- [Watch Pyda's Demo Video](https://github.com/chelseajaculina/PyDa/blob/master/Pyda%20Screenshot.png)](https://drive.google.com/file/d/1S-Jpyv-3qU1LpJG5BMO17znNZr0QrWLz/view?usp=sharing)
