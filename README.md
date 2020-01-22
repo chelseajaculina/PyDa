@@ -28,4 +28,4 @@ User will receive the answer in text through the GUI window
 ## Screenshots
 
 ## Video Demo
-[![Watch Pyda's Video Demo](<blockquote class="imgur-embed-pub" lang="en" data-id="a/EqCEdR0"><a href="//imgur.com/EqCEdR0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)](https://drive.google.com/file/d/1S-Jpyv-3qU1LpJG5BMO17znNZr0QrWLz/view?usp=sharing)
+[![Watch Pyda's Video Demo]()](https://drive.google.com/file/d/1S-Jpyv-3qU1LpJG5BMO17znNZr0QrWLz/view?usp=sharing)
