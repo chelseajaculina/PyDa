@@ -32,4 +32,4 @@ User will receive the answer in text through the GUI window
 ![Wikipedia](https://github.com/chelseajaculina/PyDa/blob/master/Pyda-WikipediaSearch.png)
 
 ## Demo Video
-- [Watch Pyda's Demo Video](https://github.com/chelseajaculina/PyDa/blob/master/Pyda%20Screenshot.png)](https://drive.google.com/file/d/1S-Jpyv-3qU1LpJG5BMO17znNZr0QrWLz/view?usp=sharing)
+- [Watch Pyda's Demo Video](https://github.com/chelseajaculina/PyDa/blob/master/Pyda%20Screenshot.png)[(https://drive.google.com/file/d/1S-Jpyv-3qU1LpJG5BMO17znNZr0QrWLz/view?usp=sharing)]
