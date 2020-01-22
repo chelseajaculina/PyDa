@@ -2,10 +2,10 @@
 🤖 An automated personal assistant GUI built with Python's libraries, Wolfram Alpha and Wikipedia packages, and WxPython.
 
 ## Purpose
-- Users can speak to the personal assistant and ask any type of questions.
+- Users can speak to the personal assistant and ask any type of questions
 
 ## How it works
-- Users either speaks or types a question in the GUI.
+- Users either speaks or types a question in the GUI
 - Depending on the question, the personal assistant will pull information from the Wolfram Alpha or Wikipedia API
 User will receive the answer in text through the GUI window
 
